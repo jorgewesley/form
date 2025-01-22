@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
     // Digitação em loop das strings
     var options = {
-      strings: ["Excelência em Telecomunicação Corporativa", "COLOCATION.", "INTERLIGAÇÃO ENTRE FILIAIS.", "CONEXÃO E ESTABILIDADE"],
+      strings: ["Excelência em Telecomunicação Corporativa", "COLOCATION.", "INTERLIGAÇÃO ENTRE FILIAIS.", "CONEXÃO E ESTABILIDADE", "BANDA LARGA"],
       typeSpeed: 50,
       backSpeed: 50,
       backDelay: 2000,
